@@ -1,0 +1,5 @@
+c:\users\dawn\documents\visual studio 2012\Projects\myers_TheBarkingLot4\myers_TheBarkingLot4\bin\Debug\myers_TheBarkingLot4.exe.config
+c:\users\dawn\documents\visual studio 2012\Projects\myers_TheBarkingLot4\myers_TheBarkingLot4\bin\Debug\myers_TheBarkingLot4.exe
+c:\users\dawn\documents\visual studio 2012\Projects\myers_TheBarkingLot4\myers_TheBarkingLot4\bin\Debug\myers_TheBarkingLot4.pdb
+c:\users\dawn\documents\visual studio 2012\Projects\myers_TheBarkingLot4\myers_TheBarkingLot4\obj\Debug\myers_TheBarkingLot4.exe
+c:\users\dawn\documents\visual studio 2012\Projects\myers_TheBarkingLot4\myers_TheBarkingLot4\obj\Debug\myers_TheBarkingLot4.pdb
